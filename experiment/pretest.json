@@ -2,37 +2,73 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  The best method for long term storage of serum is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Filter sterilization",
+        "b": "Addition of Merthiolate",
+        "c": "Refrigeration",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
+
+    
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.  Merthiolate is used for preservation, because:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "It is safe to handle",
+        "b": "It is an effective antiseptic agent",
+        "c": "It is an effective anti fungal agent",
+        "d": "It is both an antiseptic and anti fungal agent"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "3.  Serum is equal to plasma minus_________ ",
+      "answers": {
+        "a": "Fibrin",
+        "b": "Firinogen",
+        "c": "Clotting factors",
+        "d": "Complement System"
       },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "4.  During the process of isolating serum from blood sample, centrifugation is done in order to sediment: ",
+      "answers": {
+        "a": "Erythrocytes",
+        "b": "Serum proteins",
+        "c": "Blood clot",
+        "d": "Both erythrocytes and blood clot"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "5. Serum may be frozen at -20 degree Celsius for long term storage, but repeated freezing and thawing should be avoided because:",
+      "answers": {
+        "a": "The stability of biomolecules is affected",
+        "b": "Protein folding takes place",
+        "c": "Chances for contamination increases",
+        "d": "Chances for antigen-antibody interaction within the sample increases"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
