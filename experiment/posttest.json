@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Serum Chemistry Profiling is mostly used to the analyse level of which component in our body: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cholesterol	",
+        "b": "Total Protein",
+        "c": "Glucose	",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.  	Which is the anticoagulant used to prevent blood clotting: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " Oxalate ",
+        "b": "EDTA.",
+        "c": "Heparin.",
+        "d": "All the above."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.  Glycerol stock solution is added to the serum for: ",
+      "answers": {
+        "a": "Preservation",
+        "b": "Filteration",
+        "c": "Transportation Purpose",
+        "d": "For preservation and transportation."
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Blood serum is widely used for the diagnostic purposes mainly for the detection of :",
+        "answers": {
+          "a": "Homeostatic levels of Metabolites",
+          "b": "Abnormal levels of hormones",
+          "c": "Presence of specific antigens and antibodies",
+          "d": "All the above."
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
