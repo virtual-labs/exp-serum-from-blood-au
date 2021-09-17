@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Serum Chemistry Profiling is mostly used to the analyse level of which component in our body: ",
+      "answers": {
+        "a": "Cholesterol",
+        "b": "Total Protein",
+        "c": "Glucose",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which is the anticoagulant used to prevent blood clotting: ",
+      "answers": {
+        "a": " Oxalate ",
+        "b": "EDTA.",
+        "c": "Heparin.",
+        "d": "All the above."
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. Glycerol stock solution is added to the serum for: ",
+      "answers": {
+        "a": "Preservation",
+        "b": "Filteration",
+        "c": "Transportation Purpose",
+        "d": "For preservation and transportation."
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Blood serum is widely used for the diagnostic purposes mainly for the detection of :",
+        "answers": {
+          "a": "Homeostatic levels of Metabolites",
+          "b": "Abnormal levels of hormones",
+          "c": "Presence of specific antigens and antibodies",
+          "d": "All the above."
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
